@@ -1,4 +1,4 @@
-<div align='center'><img src='./client/src/assets/logo_big.png'/><h1>UrbanAttire</h1></div>
+<div align='center'><img src='./client/src/assets/logo.png'/><h1>UrbanAttire</h1></div>
 
 <h2>About the project</h2>
 
