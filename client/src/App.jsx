@@ -17,7 +17,7 @@ function App() {
   return (
     <div className='App'>
       <ShopContextProvider>
-      <Router>
+      <Router basename="/UrbanAttire-react">
       <Navbar/>
       <Routes>
         <Route path="/" element={<Shop/>}/>
