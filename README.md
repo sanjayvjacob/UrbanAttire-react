@@ -1,4 +1,7 @@
-<div align='center'><img src='./client/src/assets/logo_big.png'/><h1>UrbanAttire</h1></div>
+<div style="display: flex; align-items: center;">
+  <img src="./client/src/assets/logo_big.png" alt="UrbanAttire Logo" style="margin-right: 20px;"/>
+  <h1>UrbanAttire</h1>
+</div>
 
 <h2>About the project</h2>
 
