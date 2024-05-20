@@ -1,4 +1,4 @@
-<div align='center'><img style="width:30%" src='./client/src/assets/logo_big.png'/> UrbanAttire</div>
+<div align='center'><img src='./client/src/assets/logo_big.png'/><h1>UrbanAttire</h1></div>
 
 <h2>About the project</h2>
 
@@ -11,7 +11,7 @@
 » React JS <br>
 » Material UI
 
-<h2>Screenshots of the Project 📸</h2>
+<h2>Screenshot</h2>
 <br>
 <h3 align='center'>Home Page 🏡</h3>
 
