@@ -13,8 +13,6 @@
 
 <h2>Screenshot</h2>
 <br>
-<h3 align='center'>Home Page 🏡</h3>
-
 <div align='center'>
 Homepage
 <img src='./client/src/assets/screenshot/page1.png'/>
