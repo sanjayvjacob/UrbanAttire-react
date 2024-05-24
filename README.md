@@ -22,5 +22,8 @@ Women's Fashion
 <img src='./client/src/assets/screenshot/page3.png'/>
 Kid's Fashion
 <img src='./client/src/assets/screenshot/page4.png'/>
-
+Login Page
+<img src='./client/src/assets/screenshot/page5.png'/>
+Cart Page
+<img src='./client/src/assets/screenshot/page6.png'/>
 </div>

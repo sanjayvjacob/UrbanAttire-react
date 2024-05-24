@@ -67,7 +67,7 @@
   border-radius: 75px;
   color: #111;
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 500;
   background: white;
   cursor: pointer;
 }
@@ -160,7 +160,7 @@
 
 @media(max-width: 800px){
   .navbar{
-    padding: 10px 0px;
+    padding: 10px 20px;
   }
 
   .nav-dropdown{
@@ -206,5 +206,6 @@
 
   .nav-login-cart{
     transform: scale(0.8);
+    font-weight: 600;
   }  
 }

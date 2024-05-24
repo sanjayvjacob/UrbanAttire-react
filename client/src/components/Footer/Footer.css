@@ -85,7 +85,8 @@
 
 .footer-links{
   font-size: 14px;
-  gap: 10px;
+  gap: 8px;
+  padding: 5px;
 }
 
 .footer-social-icon img{
