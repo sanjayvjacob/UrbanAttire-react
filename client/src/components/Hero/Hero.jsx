@@ -1,7 +1,8 @@
-import React from 'react'
-import "./Hero.css"
-import arrowIcon from "../../assets/icons/arrow.png"
-import heroImg from "../../assets/rightImg2.png"
+import React from 'react';
+import { Link } from 'react-scroll';
+import "./Hero.css";
+import arrowIcon from "../../assets/icons/arrow.png";
+import heroImg from "../../assets/rightImg2.png";
 
 const Hero = () => {
   return (
@@ -15,17 +16,26 @@ const Hero = () => {
           <p>collections</p>
           <p>for everyone</p>
         </div>
-        <div className='hero-latest-button'>
-          <div>Latest collection</div>
-          <img src={arrowIcon} alt="arrowIcon" />
-        </div>
+
+        <Link
+          activeClass="active"
+          to="newCollections"
+          spy={true}
+          smooth={true}
+          offset={-70}
+          duration={500}
+          className='hero-latest-button'
+        >
+          Latest collection
+          <img src={arrowIcon} alt="Arrow Icon" />
+        </Link>
       </div>
 
       <div className='hero-right'>
-        <img src={heroImg} alt="heroImg" />
+        <img src={heroImg} alt="Hero Image" />
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default Hero
+export default Hero;
